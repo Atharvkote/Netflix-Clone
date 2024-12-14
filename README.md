@@ -3,8 +3,8 @@
 ---
 
 #### **Project Title**  
-Netflix-Like Landing Page
-Preveiw This Clone Now ! [ Click Here ]()
+Netflix-Like Landing Page<br>
+Preveiw This Clone Now ! [ [ Click Here ](http://atharvkote.github.io/Website-Clones/) ]
 
 ---
 
